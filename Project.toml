@@ -1,0 +1,4 @@
+name = "SuffixTrees"
+uuid = "cfcbc49f-7a8d-4b2e-9e99-fec650ac7f37"
+authors = ["Priddis, Micah Lee <micah.priddis@wsu.edu>"]
+version = "0.1.0"
